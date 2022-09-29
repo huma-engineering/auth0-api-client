@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/auth0-api-client) to Huma organisation as part of change in asset ownership 
 # auth0-api-client
 
 An installable package that provides a client for the Auth0 API.
